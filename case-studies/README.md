@@ -1,10 +1,24 @@
-# Case Studies
+# AI Prototype Studio Case Studies
 
 ## MetaFix
+
+AI-powered royalty health platform for African artists.
+
+Focus:
 AI + Music Technology
 
+
 ## AOS
-AI Founder Operating System
+
+Personal AI operating system designed to improve founder execution.
+
+Focus:
+AI Agents + Productivity Systems
+
 
 ## Kid Assistant
-AI Education Technology
+
+AI learning assistant prototype.
+
+Focus:
+AI + Education Technology
